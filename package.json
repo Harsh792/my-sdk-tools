@@ -1,0 +1,11 @@
+{
+  "name": "com.mycompany.mysdk",
+  "displayName": "My SDK",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Custom editor tools and runtime utilities",
+  "author": {
+    "name": "My Company",
+    "email": "support@mycompany.com"
+  }
+}

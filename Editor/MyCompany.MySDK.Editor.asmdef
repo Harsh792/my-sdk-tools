@@ -1,0 +1,7 @@
+{
+	"name": "MyCompany.MySDK.Editor",
+	"references": [
+		"MyCompany.MySDK.Runtime"
+	 ],
+	 "includePlatforms": ["Editor"]
+}
